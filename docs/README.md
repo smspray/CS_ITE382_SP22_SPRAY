@@ -12,3 +12,9 @@ then click Lab2.swift
 Assignment3
 click Lab3app.playground
 then click contents.swift
+
+Assignment4
+click Lab04Quiz
+
+Assignment5
+click Lab05Absolutes
